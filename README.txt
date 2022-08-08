@@ -1,4 +1,4 @@
-tsqueue: A Thread-safe Queue
+tsqueue: A Thread-safe Queue for Common Lisp
 
 Paul Krueger
 
